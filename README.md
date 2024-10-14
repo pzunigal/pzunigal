@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 ¡Hola! Soy Pablo Zúñiga, un programador chileno de 24 años apasionado por la tecnología y el desarrollo de software. Siempre estoy buscando aprender y mejorar mis habilidades, con un enfoque especial en backend y tecnologías web. Me encanta enfrentar nuevos desafíos y participar en proyectos innovadores donde pueda aplicar mis conocimientos y crecer profesionalmente.<br><br>Mi motivación principal es sobresalir en cada tarea que asumo, aportando soluciones eficientes y creativas. Creo firmemente en el trabajo en equipo y en la colaboración para lograr grandes resultados. Estoy siempre dispuesto a aprender nuevas tecnologías y herramientas, adaptándome rápidamente a las necesidades del proyecto.<br><br>Estoy en constante búsqueda de oportunidades que me permitan seguir desarrollándome y contribuir de manera significativa en el mundo del software. Si buscas a alguien con energía, motivación y dedicación para formar parte de tu equipo, ¡no dudes en contactarme!
 
 
