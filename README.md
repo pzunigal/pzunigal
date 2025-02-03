@@ -1,5 +1,7 @@
 # 💫 ¡Hola! Soy Pablo Zúñiga
-Un programador chileno de 24 años apasionado por la tecnología y el desarrollo de software. Siempre estoy buscando aprender y mejorar mis habilidades, con un enfoque especial en backend y tecnologías web. Enfrentar nuevos desafíos y participar en proyectos innovadores donde pueda aplicar mis conocimientos y crecer profesionalmente.<br><br>Mi motivación es sobresalir en cada tarea que asumo, aportando soluciones eficientes y creativas. El trabajo en equipo y la colaboración puede lograr grandes resultados. Estoy siempre dispuesto a aprender nuevas tecnologías y herramientas, adaptándome rápidamente a las necesidades del proyecto.<br><br>Estoy en constante búsqueda de oportunidades que me permitan seguir desarrollándome y contribuir de manera significativa en el mundo del software.
+Actualmente estoy ampliando mis conocimientos en Java, Spring Boot, JavaScript y React, además de fortalecer mis habilidades en bases de datos, APIs y desarrollo web Full Stack.
+Tengo experiencia en la creación de APIs REST, diseño de bases de datos y desarrollo frontend. Me gusta enfrentar nuevos desafíos, aprender constantemente y compartir conocimiento con otros.
+<br><br>Estoy en busca de oportunidades para poder aplicar mis habilidades en proyectos innovadores y seguir creciendo en el mundo del desarrollo de software.
 
 
 ## 🌐 Socials:
