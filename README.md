@@ -14,8 +14,7 @@
 </div>
 
 ###
-
-# 💫 ¡Hola! Soy Pablo Zúñiga
+<h1 align="center">Hola!, soy Pablo 👋</h1>
 Actualmente estoy ampliando mis conocimientos en Java, Spring Boot, JavaScript y React, además de fortalecer mis habilidades en bases de datos, APIs y desarrollo web Full Stack.
 Tengo experiencia en la creación de APIs REST, diseño de bases de datos y desarrollo frontend. Me gusta enfrentar nuevos desafíos, aprender constantemente y compartir conocimiento con otros.
 <br><br>Estoy en busca de oportunidades para poder aplicar mis habilidades en proyectos innovadores y seguir creciendo en el mundo del desarrollo de software.
