@@ -1,3 +1,20 @@
+<div align="center">
+  <img width:"800" src="https://github.com/pzunigal/pzunigal/blob/main/portadaGitHub.png?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pzunigal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:zuniga.lagosp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 # 💫 ¡Hola! Soy Pablo Zúñiga
 Actualmente estoy ampliando mis conocimientos en Java, Spring Boot, JavaScript y React, además de fortalecer mis habilidades en bases de datos, APIs y desarrollo web Full Stack.
 Tengo experiencia en la creación de APIs REST, diseño de bases de datos y desarrollo frontend. Me gusta enfrentar nuevos desafíos, aprender constantemente y compartir conocimiento con otros.
