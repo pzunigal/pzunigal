@@ -1,5 +1,5 @@
 <div align="center">
-  <img width:"800" src="https://github.com/pzunigal/pzunigal/blob/main/portadaGitHub.png?raw=true"  />
+  <img width:"800" src="https://pbs.twimg.com/profile_banners/1561215718091329536/1739475006/1500x500"/>
 </div>
 
 ###
